@@ -11,12 +11,9 @@ Classification Report:
 
            0       1.00      0.98      0.99     56866
            1       0.06      0.88      0.12        96
-
-
     accuracy                           0.98     56962
    macro avg       0.53      0.93      0.55     56962
 weighted avg       1.00      0.98      0.99     56962
-
 
 Confusion Matrix: 
  [[55588  1278]
@@ -30,12 +27,9 @@ Classification Report:
 
            0       1.00      1.00      1.00     56866
            1       0.97      0.72      0.83        96
-
-
     accuracy                           1.00     56962
    macro avg       0.99      0.86      0.91     56962
 weighted avg       1.00      1.00      1.00     56962
-
 
 Confusion Matrix: 
  [[56864     2]
@@ -49,12 +43,9 @@ Classification Report:
 
            0       1.00      0.99      0.99     56866
            1       0.10      0.83      0.17        96
-
-
     accuracy                           0.99     56962
    macro avg       0.55      0.91      0.58     56962
 weighted avg       1.00      0.99      0.99     56962
-
 
 Confusion Matrix: 
  [[56117   749]
@@ -68,12 +59,9 @@ Classification Report:
 
            0       1.00      0.96      0.98     56866
            1       0.04      0.89      0.07        96
-
-
     accuracy                           0.96     56962
    macro avg       0.52      0.92      0.53     56962
 weighted avg       1.00      0.96      0.98     56962
-
 
 Confusion Matrix: 
  [[54701  2165]
@@ -87,12 +75,9 @@ Classification Report:
 
            0       1.00      1.00      1.00     56866
            1       0.58      0.71      0.64        96
-
-
     accuracy                           1.00     56962
    macro avg       0.79      0.85      0.82     56962
 weighted avg       1.00      1.00      1.00     56962
-
 
 Confusion Matrix: 
  [[56817    49]
@@ -106,12 +91,9 @@ Classification Report:
 
            0       1.00      1.00      1.00     56866
            1       0.97      0.75      0.85        96
-
-
     accuracy                           1.00     56962
    macro avg       0.99      0.87      0.92     56962
 weighted avg       1.00      1.00      1.00     56962
-
 
 Confusion Matrix: 
  [[56864     2]
