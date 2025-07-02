@@ -5,8 +5,10 @@ Used scikit-learn's machine learning models for prediction. Logistic Regression,
 
 Obtained the following results:
 
-Classifiers:  LogisticRegression has a score of 98.0 % accuracy score
-    Classification Report: 
+Classifiers:  LogisticRegression has a score of 98.0 % accuracy score.
+
+Classification Report: 
+
                precision    recall  f1-score   support
 
            0       1.00      0.98      0.99     56866
@@ -21,8 +23,10 @@ Classifiers:  LogisticRegression has a score of 98.0 % accuracy score
 
 
 
-Classifiers:  RandomForestClassifier has a score of 100.0 % accuracy score
-    Classification Report: 
+Classifiers:  RandomForestClassifier has a score of 100.0 % accuracy score.
+
+Classification Report: 
+
                precision    recall  f1-score   support
 
            0       1.00      1.00      1.00     56866
@@ -37,8 +41,9 @@ Classifiers:  RandomForestClassifier has a score of 100.0 % accuracy score
 
 
 
-Classifiers:  RidgeClassifier has a score of 99.0 % accuracy score
-    Classification Report: 
+Classifiers:  RidgeClassifier has a score of 99.0 % accuracy score.
+Classification Report: 
+
                precision    recall  f1-score   support
 
            0       1.00      0.99      0.99     56866
@@ -53,8 +58,9 @@ Classifiers:  RidgeClassifier has a score of 99.0 % accuracy score
 
 
 
-Classifiers:  SGDClassifier has a score of 96.0 % accuracy score
-    Classification Report: 
+Classifiers:  SGDClassifier has a score of 96.0 % accuracy score.
+Classification Report: 
+
                precision    recall  f1-score   support
 
            0       1.00      0.96      0.98     56866
@@ -69,8 +75,9 @@ Classifiers:  SGDClassifier has a score of 96.0 % accuracy score
 
 
 
-Classifiers:  SVC has a score of 100.0 % accuracy score
-    Classification Report: 
+Classifiers:  SVC has a score of 100.0 % accuracy score.
+Classification Report: 
+
                precision    recall  f1-score   support
 
            0       1.00      1.00      1.00     56866
@@ -85,8 +92,9 @@ Classifiers:  SVC has a score of 100.0 % accuracy score
 
 
 
-Classifiers:  XGBClassifier has a score of 100.0 % accuracy score
-    Classification Report: 
+Classifiers:  XGBClassifier has a score of 100.0 % accuracy score.
+Classification Report: 
+
                precision    recall  f1-score   support
 
            0       1.00      1.00      1.00     56866
