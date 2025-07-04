@@ -1,9 +1,13 @@
-Detecting Fraud Transactions using the Credit Card Fraud Detection dataset (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
+# Detecting Fraud Transactions using the Credit Card Fraud Detection dataset
+
+## Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+## Kaggle Notebook: https://www.kaggle.com/code/shasan7/credit-fraud
 
 Used scikit-learn's machine learning models for prediction. Logistic Regression, Random Forest, Support Vector Machine, XGBoost, Ridge Classifier and SGD Classifiers were run.
 
-The Random Forest, Support Vector Machie and XGBoost classifiers all got nearly 100% accuracy, but the XGBoost has a macro average F1-Score of 0.93, while random forest got 0.92 and SVM got 0.79 as F1-Score. 
-XGBoost was trained with 100 iterations using the "Logloss" evaluation metric, and 'Balanced' value was passed to the class_weights parameter to provide attention to the minority class, which is crucial for a dataset like ours with huge class imbalance.
+**The Random Forest, Support Vector Machie and XGBoost classifiers all got nearly 100% accuracy**, but the **XGBoost** has a macro average **F1-Score of 0.93**, while **Random Forest got 0.92 and SVM got 0.79** as F1-Score. 
+XGBoost was trained with **100 estimators** using the **"logloss" evaluation metric**, and **"balanced" value was passed to the class_weights** parameter to **provide attention to the minority class, which is crucial for a dataset like ours with huge class imbalance**.
 
 Obtained the following results:
 
